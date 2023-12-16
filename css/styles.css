@@ -267,3 +267,17 @@ nav {
   display: flex;
   align-items: center;
 }
+
+/* Menu */
+
+.menu {
+  display: flex;
+  gap: 40px;
+}
+
+/* Address */
+
+.address {
+  display: flex;
+  gap: 40px;
+}
