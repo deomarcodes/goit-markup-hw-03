@@ -273,6 +273,10 @@ nav {
 .menu {
   display: flex;
   gap: 40px;
+<<<<<<< HEAD
+=======
+  padding: 24px 0;
+>>>>>>> parent of 20d62a5 (updated styles)
 }
 
 /* Address */
