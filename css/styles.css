@@ -90,6 +90,11 @@ body {
   gap: 24px;
 }
 
+.list-items {
+  /* margin-right: 24px; */
+  width: calc((100% - 72px) / 4);
+}
+
 .address-style {
   font-style: normal;
   line-height: 1.5;
