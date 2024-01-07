@@ -86,6 +86,8 @@ body {
 
 .list {
   list-style: none;
+  display: flex;
+  gap: 24px;
 }
 
 .address-style {
@@ -171,6 +173,10 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.second-section {
+  padding: 120px 0;
 }
 
 /* section 3 */
@@ -305,3 +311,17 @@ nav {
   display: flex;
   gap: 40px;
 }
+
+/* Header */
+
+ .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      border: 0;
+    }
+
