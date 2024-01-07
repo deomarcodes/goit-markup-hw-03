@@ -346,6 +346,7 @@ img {
 .portfolio-header-container {
   display: flex;
   justify-content: space-between;
+  width: 1158px;
 }
 
 .container {
