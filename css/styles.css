@@ -274,7 +274,14 @@ nav {
   display: flex;
   gap: 40px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+  padding: 24px 0;
+}
+
+.menu-item {
+>>>>>>> 6651b7e82fc77ae2180962f542a6f44cf9655c6d
   padding: 24px 0;
 >>>>>>> parent of 20d62a5 (updated styles)
 }
