@@ -196,6 +196,21 @@ body {
   color: #2e2f42;
 }
 
+.third-section {
+  padding-bottom: 120px;
+}
+
+.third-header {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+    padding-bottom: 120px;
+    margin-bottom: 72px;
+}
+
 /* section 4 */
 .fourth-section {
   background-color: #f4f4fd;
