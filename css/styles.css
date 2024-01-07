@@ -74,6 +74,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  /* display: flex; */
+  padding: 24px 0 24px;
+  /* text-decoration: none; */
 }
 
 .link-style:hover,
@@ -114,6 +117,7 @@ body {
 
 .first-section {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 
 .first-section-header {
