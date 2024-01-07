@@ -287,13 +287,19 @@ body {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+  
 }
 
 .footerinside-logo {
   color: #f4f4fd;
 }
 
-.footer-link {
+.index-footer-link {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.portfolio-footer-link {
   display: inline-block;
   margin-bottom: 16px;
   line-height: 1.5;
