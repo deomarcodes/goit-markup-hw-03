@@ -347,6 +347,14 @@ img {
   padding-bottom: 120px;
 }
 
+.list-portfolio {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  row-gap: 48px;
+}
+
 /* Div */
 
 .index-header-container {
