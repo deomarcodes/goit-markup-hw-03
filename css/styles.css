@@ -355,6 +355,12 @@ img {
   row-gap: 48px;
 }
 
+.portfolio-color-container {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+}
+
 /* Div */
 
 .index-header-container {
